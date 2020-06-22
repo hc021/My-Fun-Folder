@@ -1,0 +1,30 @@
+body
+{
+    text-align:center;
+}
+table
+{
+    background-color:#ccc;
+}
+button
+{
+    min-width: 100%;
+    cursor:pointer;
+}
+#display
+{
+    text-align: right;
+}
+
+#myButton
+{
+    cursor:pointer;
+    padding:10px;
+    border:1px solid #000;
+}
+
+#myDiv
+{
+    padding:10px;
+    border:1px solid #000;
+}
